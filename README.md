@@ -30,9 +30,10 @@ Usage
 Clone the repository:
 
 git clone https://github.com/yourusername/github-activity-cli.git
-Navigate to the project directory:
 
+Navigate to the project directory:
 cd github-activity-cli
+
 Compile the project (if applicable):
 
 javac GitHubActivityCLI.java
